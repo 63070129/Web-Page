@@ -7,13 +7,9 @@
         <img src="cat.jpg">
         <img src="cat1.jpg">
         <br>
-        <a href="http://www.it.kmitl.ac.th">This is a Link</a>
+        <a href="http://www.it.kmitl.ac.th">เว็บคณะ</a>
         
         <h2>เรื่องตลก3บรรทัด</h2>
-        <ul>
-            <li>Google</li>
-            <li>Yahoo</li>
-            <li>Amazon</li>
-        </ul>
+        <h3>ผมจะเล่า<br>เรื่อง<br>ตลก</h3>
     </body>
 </html>
