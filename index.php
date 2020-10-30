@@ -1,4 +1,4 @@
 <?php
-echo "<h2>IT@KMITL</h2>";
-echo "Hello IT<br>";
+echo "<h2>ภคิน จันทร์ทอง เอิร์ธ</h2>";
+echo <img src="cat.jpg">;
 ?>
