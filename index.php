@@ -1,8 +1,9 @@
 <html>
     <head>
-        <title>นาย ภคิน จันทร์ทอง เอิร์ธ</title>
+        <title>:D</title>
     </head>
     <body>
+        <h2>นาย ภคิน จันทร์ทอง เอิร์ธ</h2>
         <img src="cat.jpg">
         <img src="cat1.jpg">
         <br>
